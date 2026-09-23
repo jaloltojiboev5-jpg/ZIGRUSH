@@ -1,12 +1,12 @@
-# ZIGRUSH 2.2 — Straight Run
+# ZIGRUSH 2.3 — Boost & Challenge
 
-Based on the stable 2.0/2.1 controls.
+Built on the stable straight-track 2.2 gameplay.
 
 Changes:
-- completely straight, parallel track borders
-- gameplay handling and calm speed preserved
-- obstacles use their visual width and a safety margin, so they stay fully inside the track
-- decorative trees are outside the track and clamped to the screen
-- stars are distributed across the playable width rather than a central chain
-- safe central corridor remains for fair play
-- Android GitHub Actions build included
+- skier and skis rotate with travel direction
+- tap changes direction; hold adds smooth ~27% boost; release returns smoothly
+- more obstacles as distance grows
+- occasional two-obstacle challenge patterns with a passable gap
+- denser challenge after 150 m, 500 m and toward 1000 m+
+- stronger snow trail while boosting
+- straight track and responsive controls preserved
