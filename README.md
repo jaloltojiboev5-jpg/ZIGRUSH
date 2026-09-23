@@ -1,12 +1,12 @@
-# ZIGRUSH 2.1 — Alpine Polish
+# ZIGRUSH 2.2 — Straight Run
 
-Built on the stable 2.0 control core.
+Based on the stable 2.0/2.1 controls.
 
-- gameplay controls/speed preserved
-- collision obstacles are clamped fully inside the piste
-- safe central corridor maintained
-- decorative pines outside the piste do not collide
-- varied obstacles: pines, rocks, stumps
-- proper star collectibles
-- ski snow trail particles
-- calmer obstacle spacing and gradual variety
+Changes:
+- completely straight, parallel track borders
+- gameplay handling and calm speed preserved
+- obstacles use their visual width and a safety margin, so they stay fully inside the track
+- decorative trees are outside the track and clamped to the screen
+- stars are distributed across the playable width rather than a central chain
+- safe central corridor remains for fair play
+- Android GitHub Actions build included
