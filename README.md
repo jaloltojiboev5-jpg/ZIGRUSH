@@ -1,6 +1,6 @@
-# ZIGRUSH 2.4 — Jump & Trails
-
-Tap = turn. Hold = boost. Swipe up anywhere = jump.
-Fences are added. Rocks, stumps and fences are jumpable; trees are not.
-Double ski tracks follow the skier, curve with direction, disappear in air and resume on landing.
-Straight track and the proven 2.3 movement base are retained.
+# ZIGRUSH 2.5 — Progressive Rush
+Tap — поворот. Hold — ускорение. Swipe up — прыжок.
+Прыжок короче (~0.52 с). Скорость и плотность препятствий плавно растут с дистанцией.
+Добавлены «ворота» из двух деревьев с одним гарантированным проходом; проход постепенно сужается.
+Заборы стоят поперёк спуска. Камни, пни и заборы можно перепрыгнуть; деревья нельзя.
+Следы лыж сохранены.
