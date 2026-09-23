@@ -1,12 +1,6 @@
-# ZIGRUSH 2.3 — Boost & Challenge
+# ZIGRUSH 2.4 — Jump & Trails
 
-Built on the stable straight-track 2.2 gameplay.
-
-Changes:
-- skier and skis rotate with travel direction
-- tap changes direction; hold adds smooth ~27% boost; release returns smoothly
-- more obstacles as distance grows
-- occasional two-obstacle challenge patterns with a passable gap
-- denser challenge after 150 m, 500 m and toward 1000 m+
-- stronger snow trail while boosting
-- straight track and responsive controls preserved
+Tap = turn. Hold = boost. Swipe up anywhere = jump.
+Fences are added. Rocks, stumps and fences are jumpable; trees are not.
+Double ski tracks follow the skier, curve with direction, disappear in air and resume on landing.
+Straight track and the proven 2.3 movement base are retained.
