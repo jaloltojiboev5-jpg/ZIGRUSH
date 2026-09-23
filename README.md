@@ -1,18 +1,14 @@
-# ZIGRUSH 1.0
-Original one-tap endless arcade prototype inspired by the accessibility of classic zig-zag skiing games, with original UI, progression, missions, skins and multilingual support.
+# ZIGRUSH 1.1
 
-## Controls
-Tap anywhere during a run to change direction. Stay inside the track, avoid obstacles and collect coins.
+One-tap endless arcade prototype for Android.
 
-## Included
-- Endless procedural track
-- Progressive speed
-- Obstacles and coins
-- Best score and automatic save
-- Missions
-- Skins and coin economy
-- Worlds roadmap
-- Russian / English / Simplified Chinese / Hindi
-- Sound and vibration toggles
-- Android back-button handling
-- GitHub Actions Android debug APK build
+## 1.1 control rebuild
+- wider readable track
+- slower, smoother lateral movement
+- stable world-space track geometry
+- safe opening section
+- obstacles biased to the sides so a route remains readable
+- gentler speed ramp
+- short input cooldown against accidental double taps
+
+Tap once to change direction. Stay on the track, avoid obstacles, collect coins and beat your best distance.
