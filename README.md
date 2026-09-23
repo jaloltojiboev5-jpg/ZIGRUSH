@@ -1,13 +1,12 @@
-# ZIGRUSH 2.0 — New Core
-Rebuilt one-tap ski arcade prototype.
+# ZIGRUSH 2.1 — Alpine Polish
 
-Key changes:
-- continuous requestAnimationFrame loop; no interval/timer spawning
-- delta-time clamped to prevent jumps after Android pauses
-- clearly drawn skier with skis and poles
-- wider track and gentler initial speed
-- first 35 m safe from obstacles
-- practice mode without obstacles
-- gradual speed increase
-- stars, best score, autosave, sound and vibration
-- Android GitHub Actions build included
+Built on the stable 2.0 control core.
+
+- gameplay controls/speed preserved
+- collision obstacles are clamped fully inside the piste
+- safe central corridor maintained
+- decorative pines outside the piste do not collide
+- varied obstacles: pines, rocks, stumps
+- proper star collectibles
+- ski snow trail particles
+- calmer obstacle spacing and gradual variety
