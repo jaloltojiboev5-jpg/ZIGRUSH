@@ -1,14 +1,13 @@
-# ZIGRUSH 1.1
+# ZIGRUSH 2.0 — New Core
+Rebuilt one-tap ski arcade prototype.
 
-One-tap endless arcade prototype for Android.
-
-## 1.1 control rebuild
-- wider readable track
-- slower, smoother lateral movement
-- stable world-space track geometry
-- safe opening section
-- obstacles biased to the sides so a route remains readable
-- gentler speed ramp
-- short input cooldown against accidental double taps
-
-Tap once to change direction. Stay on the track, avoid obstacles, collect coins and beat your best distance.
+Key changes:
+- continuous requestAnimationFrame loop; no interval/timer spawning
+- delta-time clamped to prevent jumps after Android pauses
+- clearly drawn skier with skis and poles
+- wider track and gentler initial speed
+- first 35 m safe from obstacles
+- practice mode without obstacles
+- gradual speed increase
+- stars, best score, autosave, sound and vibration
+- Android GitHub Actions build included
