@@ -1,8 +1,8 @@
 {
   "name": "zigrush-game",
-  "version": "3.3.0",
+  "version": "4.0.0",
   "private": true,
-  "description": "ZIGRUSH endless skiing arcade game with rewarded continue",
+  "description": "ZIGRUSH stable Google Play preparation build (API 36, no ads)",
   "scripts": {
     "android:add": "npx cap add android",
     "android:sync": "npx cap sync android",
@@ -10,12 +10,11 @@
     "android:bundle": "cd android && ./gradlew bundleRelease"
   },
   "dependencies": {
-    "@capacitor/core": "^7.0.0",
-    "@capacitor/android": "^7.0.0",
-    "@capacitor/app": "^7.0.0",
-    "@capacitor-community/admob": "7.2.0"
+    "@capacitor/core": "8.5.2",
+    "@capacitor/android": "8.5.2",
+    "@capacitor/app": "8.1.1"
   },
   "devDependencies": {
-    "@capacitor/cli": "^7.0.0"
+    "@capacitor/cli": "8.5.2"
   }
 }
