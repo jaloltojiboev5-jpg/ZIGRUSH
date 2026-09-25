@@ -1,6 +1,6 @@
 {
   "name": "zigrush-game",
-  "version": "1.2.0",
+  "version": "1.1.2",
   "private": true,
   "description": "ZIGRUSH one-tap endless arcade game",
   "scripts": {
@@ -11,8 +11,7 @@
   "dependencies": {
     "@capacitor/core": "^7.0.0",
     "@capacitor/android": "^7.0.0",
-    "@capacitor/app": "^7.0.0",
-    "@capacitor-community/admob": "^7.0.0"
+    "@capacitor/app": "^7.0.0"
   },
   "devDependencies": {
     "@capacitor/cli": "^7.0.0"
