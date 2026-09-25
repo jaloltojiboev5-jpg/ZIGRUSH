@@ -1,0 +1,20 @@
+Title: ZIGRUSH
+
+Short description:
+Dodge obstacles, jump, speed up and chase a new skiing distance record.
+
+Full description:
+ZIGRUSH is a fast endless skiing arcade game built around simple one-finger controls.
+
+Tap to change direction, hold to speed up, and swipe upward to jump over suitable obstacles. The farther you go, the faster and more challenging the run becomes.
+
+Features:
+• simple one-finger controls;
+• gradually increasing speed and difficulty;
+• trees, rocks and fences;
+• jumping and boost mechanics;
+• automatic best-distance saving;
+• practice mode;
+• one optional rewarded-video continue per run.
+
+How far can you ski?

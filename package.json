@@ -1,17 +1,19 @@
 {
   "name": "zigrush-game",
-  "version": "1.1.2",
+  "version": "3.3.0",
   "private": true,
-  "description": "ZIGRUSH one-tap endless arcade game",
+  "description": "ZIGRUSH endless skiing arcade game with rewarded continue",
   "scripts": {
     "android:add": "npx cap add android",
     "android:sync": "npx cap sync android",
-    "android:build": "cd android && ./gradlew assembleDebug"
+    "android:build": "cd android && ./gradlew assembleDebug",
+    "android:bundle": "cd android && ./gradlew bundleRelease"
   },
   "dependencies": {
     "@capacitor/core": "^7.0.0",
     "@capacitor/android": "^7.0.0",
-    "@capacitor/app": "^7.0.0"
+    "@capacitor/app": "^7.0.0",
+    "@capacitor-community/admob": "7.2.0"
   },
   "devDependencies": {
     "@capacitor/cli": "^7.0.0"
